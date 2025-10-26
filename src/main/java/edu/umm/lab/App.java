@@ -5,7 +5,6 @@ import edu.umm.lab.service.Receipt;
 
 /**
  * Simple demo application for food order receipt (Task 1).
- *
  * Demonstrates:
  * - creating OrderItem objects
  * - adding items to Receipt
