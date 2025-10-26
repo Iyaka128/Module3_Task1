@@ -8,7 +8,7 @@ import edu.umm.lab.service.Receipt;
  * Demonstrates:
  * - creating OrderItem objects
  * - adding items to Receipt
- * - setting tax & discount
+ * - setting tax & discount Halo
  * - printing formatted receipt
  */
 public class App {
